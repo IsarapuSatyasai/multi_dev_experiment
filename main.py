@@ -9,3 +9,8 @@ def add(a, b):
 print("Calculator added by dev2")
 
 print("Hello from dev2 - Feature 1")
+
+# Bad practice - printing sensitive information
+print("Secret Key: 12345-ABCDE-SECRET")
+print("Admin Password: admin@123")
+
